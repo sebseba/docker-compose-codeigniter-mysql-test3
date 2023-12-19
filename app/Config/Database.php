@@ -28,7 +28,7 @@ class Database extends Config
         'DSN'          => '',
         'hostname'     => '127.0.0.1',
         'username'     => 'root',
-        'password'     => 'Sercan12345',
+        'password'     => '123',
         'database'     => 'todosdb',
         'DBDriver'     => 'MySQLi',
         'DBPrefix'     => '',

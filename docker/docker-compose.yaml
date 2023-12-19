@@ -15,7 +15,7 @@ services:
     command: --default-authentication-plugin=mysql_native_password
     restart: always
     environment:
-      - MYSQL_DATABASE=todos
+      - MYSQL_DATABASE=todosdb
       - MYSQL_ROOT_PASSWORD=123
       - MYSQL_ALLOW_EMPTY_PASSWORD=1
     ports:
