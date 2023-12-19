@@ -1,0 +1,28 @@
+CRITICAL - 2023-12-19 14:43:09 --> Too few arguments to function CodeIgniter\CodeIgniter::__construct(), 0 passed in C:\Users\sas_s\Desktop\CI4Proje\codeigniter4\system\CodeIgniter.php on line 914 and exactly 1 expected
+in SYSTEMPATH\CodeIgniter.php on line 191.
+ 1 SYSTEMPATH\CodeIgniter.php(914): CodeIgniter\CodeIgniter->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\sas_s\\Desktop\\CI4Proje\\codeigniter4\\public\\index.php')
+CRITICAL - 2023-12-19 14:45:30 --> Too few arguments to function CodeIgniter\CodeIgniter::__construct(), 0 passed in C:\Users\sas_s\Desktop\CI4Proje\codeigniter4\system\CodeIgniter.php on line 914 and exactly 1 expected
+in SYSTEMPATH\CodeIgniter.php on line 191.
+ 1 SYSTEMPATH\CodeIgniter.php(914): CodeIgniter\CodeIgniter->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\sas_s\\Desktop\\CI4Proje\\codeigniter4\\public\\index.php')
+CRITICAL - 2023-12-19 14:45:32 --> Too few arguments to function CodeIgniter\CodeIgniter::__construct(), 0 passed in C:\Users\sas_s\Desktop\CI4Proje\codeigniter4\system\CodeIgniter.php on line 914 and exactly 1 expected
+in SYSTEMPATH\CodeIgniter.php on line 191.
+ 1 SYSTEMPATH\CodeIgniter.php(914): CodeIgniter\CodeIgniter->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\sas_s\\Desktop\\CI4Proje\\codeigniter4\\public\\index.php')
+CRITICAL - 2023-12-19 14:45:32 --> Too few arguments to function CodeIgniter\CodeIgniter::__construct(), 0 passed in C:\Users\sas_s\Desktop\CI4Proje\codeigniter4\system\CodeIgniter.php on line 914 and exactly 1 expected
+in SYSTEMPATH\CodeIgniter.php on line 191.
+ 1 SYSTEMPATH\CodeIgniter.php(914): CodeIgniter\CodeIgniter->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\sas_s\\Desktop\\CI4Proje\\codeigniter4\\public\\index.php')
